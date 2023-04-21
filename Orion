@@ -1,0 +1,116 @@
+{ 
+    "name": "Orion",
+    "description": "My first attempt at making a propper theme for Vendetta (made by Felix)",
+   "authors": [
+     {
+       "name": "Felix Svetloozerskiy",
+       "id": "354936587186077707"
+     }
+   ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+          
+          "#332434",
+          "#332434"
+        ],
+        "HEADER_SECONDARY": [
+          
+          "#170A17",
+          "#170A17"
+        ],
+        "TEXT_NORMAL": [
+          
+          "#D6D6D6",
+          "#c8c8c8"
+        ],
+        "TEXT_MUTED": [
+          
+          "#08393F",
+          "#08393F"
+        ],
+        "INTERACTIVE_NORMAL": [
+          
+          "#262507",
+          "#262507"
+        ],
+        "INTERACTIVE_HOVER": [
+          
+          "#262507",
+          "#262507"
+          ],
+          "INTERACTIVE_ACTIVE": [
+            "#851a1c",
+            "#851a1c"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#3a3a3a",
+            "#3a3a3a"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#06000A",
+            "#06000A"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#171717",
+            "#171717"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#171717",
+            "#171717"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#06000A",
+            "#06000A"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#08393F",
+            "#08393F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#171717",
+            "#171717"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#06000A",
+            "#06000A"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#06000A",
+            "#06000A"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#171717",
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#171717",
+            "#171717"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#464646",
+            "#464646"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#396165",
+            "#396165"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#396165",
+            "#396165"
+        ],
+        "TEXT_LINK": [
+            "#396165",
+            "#396165"
+        ],
+        "KEYBOARD": [
+            "#031719",
+            "#031719"
+        ]
+},
+  "background": {
+    "blur": 0.3,
+    "url": "https://cdn.discordapp.com/attachments/943942415289577493/1099029478547665007/ntf57pF3.jpg",
+    "alpha": 0.7
+    
+  }
