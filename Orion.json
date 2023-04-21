@@ -108,6 +108,10 @@
             "#06000A"
         ]
 },
+"rawColors": {
+    "PRIMARY_800": "#06000A",
+    "PRIMARY_600": "#06000A"
+  },
   "background": {
     "blur": 0.3,
     "url": "https://cdn.discordapp.com/attachments/943942415289577493/1099029478547665007/ntf57pF3.jpg",
